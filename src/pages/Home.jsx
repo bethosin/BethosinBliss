@@ -15,6 +15,11 @@ const Home = () => {
           name="description"
           content="Order fresh homemade zobo, tigernut and yogurt drinks in Nigeria. Bethosin Bliss offers premium quality drinks with fast delivery."
         />
+
+        <meta
+          name="google-site-verification"
+          content="ZlHrKUEahUXIc5SaLLTAox5P-FIwQfP04SebTJyUA2s"
+        />
       </Helmet>
 
       <Hero />
