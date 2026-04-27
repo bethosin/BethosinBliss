@@ -25,3 +25,4 @@ dist-ssr
 
 # ignore video
 src/assets/fruitvideo.mp4
+package-lock.json
