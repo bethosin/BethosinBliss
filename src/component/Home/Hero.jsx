@@ -5,16 +5,11 @@ const Hero = () => {
   return (
     <>
       <section className="relative min-h-[90vh] w-full overflow-hidden flex items-center justify-center">
-        {/* VIDEO */}
-        <video
-          autoPlay
-          loop
-          muted
-          playsInline
-          className="absolute top-0 left-0 w-full h-full object-cover"
-        >
-          <source src="/fruitvideo.mp4" type="video/mp4" />
-        </video>
+        {/* IMAGE BACKGROUND */}
+        <div
+          className="absolute top-0 left-0 w-full h-full bg-cover bg-center animate-zoom"
+          style={{ backgroundImage: "url('/herobg.jpg')" }}
+        ></div>
 
         {/* OVERLAY */}
         <div className="absolute inset-0 bg-black/60"></div>

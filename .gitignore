@@ -23,6 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-# ignore video
-src/assets/fruitvideo.mp4
 package-lock.json
