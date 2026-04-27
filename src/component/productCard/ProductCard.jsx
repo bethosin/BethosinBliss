@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { WHATSAPP_NUMBER } from "../../utils/constants";
+import { Link } from "react-router-dom";
 
 const ProductCard = ({ product, showVariants = false }) => {
   const hasVariants =
@@ -128,12 +129,12 @@ const ProductCard = ({ product, showVariants = false }) => {
           {/* ACTION */}
           <div className="flex items-center justify-between mt-4">
             {isSimpleView ? (
-              <button
-                onClick={() => (window.location.href = "/products")}
-                className="w-full bg-blue-900 text-white py-2 rounded-full text-xs font-semibold hover:bg-blue-700 transition"
+              <Link
+                to="/products"
+                className="w-full block text-center bg-blue-900 text-white py-2 rounded-full text-xs font-semibold hover:bg-blue-700 transition"
               >
                 View Product
-              </button>
+              </Link>
             ) : (
               <>
                 {/* QUANTITY */}
