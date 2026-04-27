@@ -22,7 +22,7 @@ const ProductCard = ({ product, showVariants = false }) => {
   const [customerPhone, setCustomerPhone] = useState("");
   const [deliveryType, setDeliveryType] = useState("pickup");
 
-  const DELIVERY_FEE = 1000;
+  const DELIVERY_FEE = 1000 - 4000("depending on location");
 
   const price = hasVariants ? selectedVariant?.price || 0 : product.price || 0;
 
