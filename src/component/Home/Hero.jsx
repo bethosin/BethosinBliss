@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import bgVideo from "../../assets/fruitvideo.mp4";
+
 
 const Hero = () => {
   return (
@@ -13,7 +13,7 @@ const Hero = () => {
           playsInline
           className="absolute top-0 left-0 w-full h-full object-cover"
         >
-          <source src={bgVideo} type="video/mp4" />
+          <source src="/fruitvideo.mp4" type="video/mp4" />
         </video>
 
         {/* OVERLAY */}
