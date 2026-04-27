@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bethosin-bliss.vercel.app/sitemap.xml
