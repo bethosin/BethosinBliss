@@ -18,15 +18,15 @@ const Hero = () => {
         <div className="relative z-10 text-center px-4 max-w-3xl mx-auto">
           {/* 🔥 HERO TITLE */}
           <h1 className="reveal delay-1 text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-white leading-tight mt-20">
-            Fresh Zobo & Tigernut Drinks <br className="hidden sm:block" />
+            Fresh Drinks Delivery in Ibadan <br className="hidden sm:block" />
             <span className="text-blue-300">Made Daily in Nigeria</span>
           </h1>
 
           {/* 🔥 SUBTEXT */}
           <p className="reveal delay-2 mt-5 text-sm sm:text-base md:text-lg text-gray-200 leading-relaxed">
-            Bethosin Bliss delivers refreshing homemade zobo, tigernut and
-            yogurt drinks made from natural ingredients perfect for your
-            everyday enjoyment.
+            Bethosin Bliss provides fresh zobo, tigernut and yogurt drinks
+            across Ibadan. We deliver quickly and ensure every bottle is made
+            with quality ingredients.
           </p>
 
           {/* 🔥 CTA */}
@@ -35,7 +35,7 @@ const Hero = () => {
               to="/products"
               className="w-full sm:w-auto bg-blue-900 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition text-sm md:text-base"
             >
-              Shop Drinks
+              Shop Product
             </Link>
 
             <Link

@@ -9,7 +9,8 @@ const Home = () => {
       {/* 🔥 SEO */}
       <Helmet>
         <title>
-          Bethosin Bliss | Fresh Zobo, Tigernut & Yogurt Drinks in Nigeria
+          Bethosin Bliss | Fresh Zobo, Tigernut & Yogurt Drinks in Ibadan
+          Nigeria
         </title>
         <meta
           name="description"

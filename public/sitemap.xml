@@ -4,13 +4,16 @@
   <url>
     <loc>https://bethosin-bliss.vercel.app/</loc>
   </url>
-
-  <url>
-    <loc>https://bethosin-bliss.vercel.app/products</loc>
-  </url>
+<url>
+  <loc>https://bethosin-bliss.vercel.app/products</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
 
   <url>
     <loc>https://bethosin-bliss.vercel.app/contact</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>

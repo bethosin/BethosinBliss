@@ -8,7 +8,7 @@ import peanut from "../assets/Peanut.png";
 const product = [
   {
     id: 1,
-    name: "Bethosin Bliss Zobo Drink",
+    name: "Zobo Drink in Ibadan - Bethosin Bliss",
     description:
       "Fresh homemade zobo drink in Nigeria made from natural hibiscus leaves. A healthy and refreshing drink perfect for any time of the day.",
     image: zobo,
@@ -22,7 +22,7 @@ const product = [
 
   {
     id: 3,
-    name: "Bethosin Bliss Tigernut Drink",
+    name: "Tigernut Drink in Ibadan - Bethosin Bliss",
     description:
       "Creamy tigernut drink made in Nigeria using natural ingredients. Rich in nutrients and perfect for a healthy lifestyle.",
     image: tigernut,
@@ -36,7 +36,7 @@ const product = [
 
   {
     id: 4,
-    name: "Bethosin Bliss Flavoured Yoghurt",
+    name: "Yoghurt Drink in Ibadan - Bethosin Bliss",
     description:
       "Delicious homemade yoghurt drink. Smooth, creamy and refreshing for everyday enjoyment in Nigeria.",
     image: yoghurt,
@@ -50,7 +50,7 @@ const product = [
 
   {
     id: 5,
-    name: "Bethosin Bliss Coated Peanuts",
+    name: "Coated Peanuts in Ibadan - Bethosin Bliss",
     description:
       "Crunchy coated peanuts snack in Nigeria, rich in protein and perfect for quick energy and healthy snacking.",
     image: peanut,
@@ -63,7 +63,7 @@ const product = [
 
   {
     id: 6,
-    name: "Bethosin Bliss Pineapple Ginger Juice",
+    name: "Pineapple Ginger Juice in Ibadan - Bethosin Bliss",
     description:
       "Fresh pineapple and ginger juice made in Nigeria. A refreshing drink with a spicy twist, perfect for boosting your energy.",
     image: pineapple,
@@ -77,7 +77,7 @@ const product = [
 
   {
     id: 7,
-    name: "Bethosin Bliss Watermelon Apple Juice",
+    name: "Watermelon Apple Juice in Ibadan - Bethosin Bliss",
     description:
       "Refreshing watermelon and apple juice made from fresh fruits in Nigeria. Light, sweet and perfect for hydration.",
     image: watermelon,
