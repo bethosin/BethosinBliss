@@ -16,7 +16,7 @@ const Footer = () => {
           <div className="flex items-center gap-4 mt-5">
             {/* Instagram */}
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/bethosinbliss.ng?igsh=bmdyMmxldWh4bHJ6&utm_source=qr"
               target="_blank"
               rel="noreferrer"
               className="bg-white/10 p-2 rounded-full hover:bg-white/20 transition"
@@ -53,7 +53,7 @@ const Footer = () => {
 
             {/* TikTok */}
             <a
-              href="https://tiktok.com"
+              href="https://www.tiktok.com/@bethosinbliss?_r=1&_t=ZS-95wUnpXzxH3"
               target="_blank"
               rel="noreferrer"
               className="bg-white/10 p-2 rounded-full hover:bg-white/20 transition"
